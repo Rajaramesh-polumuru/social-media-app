@@ -1,0 +1,41 @@
+.post__image {
+  width: 100%;
+  object-fit: contain;
+  border-bottom: 1px solid lightgray;
+}
+.captionText {
+  font-weight: normal;
+  padding: 20px;
+}
+.post__header {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+.post__Avatar {
+  margin-right: 10px;
+}
+.post {
+  background-color: white;
+  max-width: 500px;
+  border: 1px solid lightgray;
+  margin-bottom: 40px;
+}
+.commentBox {
+  display: flex;
+  margin-top: 10px;
+}
+.post__input {
+  flex: 1;
+  border: none;
+  border-top: 1px solid lightgray;
+  padding: 10px;
+}
+.post__button {
+  flex: 0;
+  font-weight: bold;
+  border: none;
+  border-top: 1px solid lightgray;
+  border-left: 1px solid lightgray;
+  color: #6ebdf1;
+}

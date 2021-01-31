@@ -1,0 +1,13 @@
+.app__imageUploader {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  background-color: white;
+}
+.imageuploadProgress {
+  width: 100%;
+}
